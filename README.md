@@ -1,4 +1,4 @@
-# Policy Service (Style C - human-like)
+# Policy Service
 
 Quick notes:
 - This is a small Node.js + Express + MongoDB app.
